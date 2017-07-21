@@ -1,0 +1,11 @@
+certifi==2017.4.17
+chardet==3.0.3
+idna==2.5
+lxml==3.8.0
+mecab-python3==0.7
+requests==2.17.3
+six==1.10.0
+slackbot==0.4.1
+slacker==0.9.50
+urllib3==1.21.1
+websocket-client==0.40.0
