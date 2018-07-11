@@ -1,5 +1,5 @@
 # 必須項目
-python 3.5.0
+python 3.5.0  
 mecab 0.996
 [https://www.yoshiislandblog.net/2017/05/20/mecab_slackbot/](https://www.yoshiislandblog.net/2017/05/20/mecab_slackbot/)
 
